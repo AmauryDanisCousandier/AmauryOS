@@ -1,2 +1,2 @@
 # AmauryOS
-Operating System developped in assembly
+Operating System C + assembly kernel
